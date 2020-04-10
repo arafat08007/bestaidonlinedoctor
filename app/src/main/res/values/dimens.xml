@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="stdgap">10dp</dimen>
+    <dimen name="textgap">5dp</dimen>
+    <dimen name="elemmargin">24dp</dimen>
+    <dimen name="optioncard">25dp</dimen>
+    <dimen name="radigroupwidth">200dp</dimen>
+    <dimen name="userpicsize">100dp</dimen>
+</resources>

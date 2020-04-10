@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bestaid</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_market">Marketplace</string>
+    <string name="title_categories">Categories</string>
+
+    <string name="lorumipsum">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. \n
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+    </string>
+</resources>
